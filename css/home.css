@@ -1,0 +1,58 @@
+.bob-sitting {
+    max-width: 100%;
+    width: 100%;
+}
+.text-background {
+    text-align: center;
+    color: #dddddd;
+    /* margin-top: 80px; */
+}
+.rogers-text {
+    font-size: 40px;
+}
+.board-certified {
+    font-size: 30px;
+    margin-top: 50px;
+}
+.criminal-defense-attorney {
+    font-size: 40px;
+    margin-top: 50px;
+}
+body, html {
+    background: #040404;
+    color: #dddddd;
+}
+.ask-question-container {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 50px;
+    margin-bottom: 100px;
+}
+.input-container {
+    text-align: left;
+    font-size: 20px;
+    margin-top:20px;
+}
+.input-container label {
+    display: block;
+}
+.input-container input {
+    border: 2px solid white;
+    background: #040404;
+    width: 100%;
+    padding: 5px;
+}
+.input-container textarea {
+    border: 2px solid white;
+    background: #040404;
+    width: 100%;
+    padding: 5px;
+}
+.submit-button {
+    margin-top: 50px;
+    border: 3px solid white;
+    padding: 20px;
+    font-size: 30px;
+    background: none;
+    color: #dddddd;
+}

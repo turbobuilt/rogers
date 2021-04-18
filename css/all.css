@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "Merriweather";
+    src: url("/fonts/merriweather.regular.woff");
+    font-weight: normal;
+}
+*{
+    font-family: "Merriweather", serif;
+}
